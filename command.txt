@@ -1,0 +1,127 @@
+1184  git clone https://github.com/awsrun/aws-serverless.git
+ 1185  clear
+ 1186  mkdir nextJs
+ 1187  cd nextJs
+ 1188  clear
+ 1189  code.
+ 1190  code .
+ 1191  vscode .
+ 1192  .code
+ 1193  code .
+ 1194  cd Projects
+ 1195  cd nextJs
+ 1196  clear
+ 1197  code .
+ 1198  npx create-next-app -e with-tailwindcss rambabNextApp
+ 1199  npx create-next-app -e with-tailwindcss youtube-next-app
+ 1200  ls
+ 1201  cd youtube-next-app
+ 1202  code .
+ 1203  npm run dev
+ 1204  CD ..
+ 1205  cd ..
+ 1206  clear
+ 1207  cd ,,
+ 1208  mkdir nestjsRealWorld
+ 1209  cd nestjsRealWorld
+ 1210  clear
+ 1211  ls
+ 1212  node -v
+ 1213  npm i -g @nestjs/cli
+ 1214  nest -v
+ 1215  nest new mediumclone_nestjs
+ 1216  cd mediumclone_nestjs
+ 1217  npm run start
+ 1218  exit
+ 1219  npm run start
+ 1220  cd Projects
+ 1221  cd nextJs
+ 1222  cd ..
+ 1223  cd  nes
+ 1224  ls
+ 1225  cd nextJs
+ 1226  clear
+ 1227  ls
+ 1228  cd nestjsRealWorld
+ 1229  ls
+ 1230  cd mediumclone_nestjs
+ 1231  clear
+ 1232  ls -lrt
+ 1233  code .
+ 1234  npm run start --watch
+ 1235  npm run start dev
+ 1236  npm run start --watch
+ 1237  npm start:dev
+ 1238  node start:dev
+ 1239  node run start:dev
+ 1240  npm run start:dev
+ 1241  clear
+ 1242  npm add module-alias
+ 1243  npm run start:dev
+ 1244  clear
+ 1245  npm run start
+ 1246  npm add nodedemon
+ 1247  npm install -g nodemon
+ 1248  npm run start
+ 1249  clear
+ 1250  npm run start
+ 1251  yarn start
+ 1252  clear
+ 1253  npm run start
+ 1254  sudo -u posgres psql
+ 1255  sudo -u postgres psql
+ 1256  sudo u postgres psql
+ 1257  sudo
+ 1258  clear
+ 1259  sudo -u posgtgres psql
+ 1260  sudo -u postgres psql
+ 1261  psql
+ 1262  postgres
+ 1263  /Library/PostgreSQL/15/scripts/runpsql.sh; exit
+ 1264  sudo -u postgres
+ 1265  sudo -u postgres psql
+ 1266  psql
+ 1267  sql
+ 1268  cd
+ 1269  psql
+ 1270  /Library/PostgreSQL/15/scripts/runpsql.sh; exit
+ 1271  cd Projects
+ 1272  cd nes
+ 1273  ls
+ 1274  cd nextJs
+ 1275  clear
+ 1276  ls
+ 1277  nest
+ 1278  cd nestjsRealWorld
+ 1279  clear
+ 1280  ls
+ 1281  cd mediumclone_nestjs
+ 1282  clear
+ 1283  ls -lrt
+ 1284  npm install typeorm --save
+ 1285  npm i typeorm
+ 1286  clear
+ 1287  npm u typeorm
+ 1288  npm uninstall typeorm
+ 1289  npm add typeorm
+ 1290  npm list
+ 1291  history
+ 1292  npm run start
+ 1293  clear
+ 1294  npm run start
+ 1295  clear
+ 1296  npm run start
+ 1297  brew install --cask sublime-text
+ 1298  cd /Users/rameshveeramani/Projects/nextJs/nestjsRealWorld/
+ 1299  cd mediumclone_nestjs
+ 1300  clear
+ 1301  ls -lrt
+ 1302  npm run start
+ 1303  cd /Users/rameshveeramani/Projects/nextJs/nestjsRealWorld/mediumclone_nestjs/
+ 1304  clear
+ 1305  npm rum db:drop
+ 1306  yarn db:create CreateTags
+ 1307  npm rum db:create
+ 1308  npm rum db:create CreateTags
+ 1309  npm rum db:create src/migrations/ CreateTags
+ 1310  npm rum db:create src/migrations/CreateTags
