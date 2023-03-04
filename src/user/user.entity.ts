@@ -12,10 +12,10 @@ export class UserEntity {
   @Column()
   email: string;
 
-  @Column({ default: ' ' })
+  @Column({ default: 'bio' })
   bio: string;
 
-  @Column({ default: ' ' })
+  @Column({ default: 'images' })
   image: string;
 
   @Column()
